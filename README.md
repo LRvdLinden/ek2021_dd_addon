@@ -36,17 +36,17 @@
        client_secret: YOUR_CLIENT_SECRET
 ```
 - Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
-- Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
+- Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [atomic-calendar-revive](https://marksie1988.github.io/atomic-calendar-revive/options/main-options.html). This can be done manually or directly via hacs.
 
 ## Installation Add-on
 ---
-- Copy the `birthdays` folder in to the `dwains-dashboard/addons/more_page` directory.
+- Copy the `EK21` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
  ```yaml
-     - name: Birthdays
+     - name: EK 2021
        main_menu: 'true' #Show this addon in the main navigation bar!
-       icon: fas:gifts
-       path: 'dwains-dashboard/addons/more_page/birthdays/page.yaml'
+       icon: mdi:soccer
+       path: 'dwains-dashboard/addons/more_page/ek21/page.yaml'
 ```
 - Reload the theme configuration via Theme Settings
 
