@@ -73,8 +73,8 @@
               entities:
                 - calendar.ek_2020
 ```
-- on line 69: add the correct `entity` or `entities` to show
-- change `maxDaysToShow` in the days that you want
+- on line `73`: add the correct `entity` or `entities` to show
+- change `maxDaysToShow` on line `66`  in the days that you want
 
 ## Configuration ⚙️
 ---
