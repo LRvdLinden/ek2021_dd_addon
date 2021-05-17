@@ -37,7 +37,7 @@
        client_secret: YOUR_CLIENT_SECRET
 ```
 - Subscribe to [this calendar](https://www.google.com/calendar/render?cid=webcal://www.voetbalkrant.com/soccer/calendar/competition/competition_829_nl.ics) to your [Google Calendar](https://www.google.com/calendar/render?cid=webcal://www.voetbalkrant.com/soccer/calendar/competition/competition_829_nl.ics) and sync the calendar with Home Assistant
-- Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [atomic-calendar-revive](https://marksie1988.github.io/atomic-calendar-revive/options/main-options.html). This can be done manually or directly via hacs.
+- Make sure you have installed [atomic-calendar-revive](https://marksie1988.github.io/atomic-calendar-revive/options/main-options.html). This can be done manually or directly via hacs.
 
 ## Installation Add-on
 ---
