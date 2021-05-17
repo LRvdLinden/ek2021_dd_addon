@@ -85,7 +85,8 @@
 ![simple-ipad-pro-mockup-23619 (13)](https://user-images.githubusercontent.com/77990847/118460337-e4b4cc80-b6fc-11eb-9edd-930fb8d28ac5.png)
 
 ![simple-ipad-pro-mockup-23619 (14)](https://user-images.githubusercontent.com/77990847/118460346-e67e9000-b6fc-11eb-9ada-fd74b3251bce.png)
-![mockup-of-two-iphones-12-pro-max-with-a-plain-background-5014-el1 (4)](https://user-images.githubusercontent.com/77990847/118459806-60fae000-b6fc-11eb-8c4c-b40073969d0c.png)
+![mockup-of-two-iphones-12-pro-max-with-a-plain-background-5014-el1 (5)](https://user-images.githubusercontent.com/77990847/118477161-af18df00-b70e-11eb-98cb-db06afa63b76.png)
+
 
 
 
