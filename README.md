@@ -24,7 +24,8 @@
 </p> 
 
 
-![simple-ipad-pro-mockup-23619 (13)](https://user-images.githubusercontent.com/77990847/118460329-e1b9dc00-b6fc-11eb-81c6-88a898063025.png)
+![simple-ipad-pro-mockup-23619 (15)](https://user-images.githubusercontent.com/77990847/118478480-39157780-b710-11eb-8742-f1ff3a46ee24.png)
+
 
 
 ## Prerequisite
@@ -82,9 +83,9 @@
 
 ## Result
 ---
-![simple-ipad-pro-mockup-23619 (13)](https://user-images.githubusercontent.com/77990847/118460337-e4b4cc80-b6fc-11eb-9edd-930fb8d28ac5.png)
+![simple-ipad-pro-mockup-23619 (15)](https://user-images.githubusercontent.com/77990847/118478491-3e72c200-b710-11eb-9925-ace6b447f146.png)
+![simple-ipad-pro-mockup-23619 (16)](https://user-images.githubusercontent.com/77990847/118478492-3fa3ef00-b710-11eb-8200-d903e187c406.png)
 
-![simple-ipad-pro-mockup-23619 (14)](https://user-images.githubusercontent.com/77990847/118460346-e67e9000-b6fc-11eb-9ada-fd74b3251bce.png)
 ![mockup-of-two-iphones-12-pro-max-with-a-plain-background-5014-el1 (5)](https://user-images.githubusercontent.com/77990847/118477161-af18df00-b70e-11eb-98cb-db06afa63b76.png)
 
 
