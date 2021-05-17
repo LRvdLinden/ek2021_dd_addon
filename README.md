@@ -35,7 +35,7 @@
        client_id: YOUR_CLIENT_ID
        client_secret: YOUR_CLIENT_SECRET
 ```
-- Make a calendar in Google with all the birthdays and sync the calendar with Home Assistant
+- Import [this calendar](https://calendar.google.com/calendar/u/0/embed?src=jrl4fjbvvvnf906c75thsme4c1k638fq@import.calendar.google.com&ctz=Europe/Amsterdam) to your [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=jrl4fjbvvvnf906c75thsme4c1k638fq@import.calendar.google.com&ctz=Europe/Amsterdam) and sync the calendar with Home Assistant
 - Make sure you have installed [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) and [atomic-calendar-revive](https://marksie1988.github.io/atomic-calendar-revive/options/main-options.html). This can be done manually or directly via hacs.
 
 ## Installation Add-on
@@ -70,7 +70,7 @@
               dayWrapperLineColor: 'var(--dwains-theme-grey)'
               timeColor: 'var(--dwains-theme-grey)'
               entities:
-                - calendar.friends_birthdays
+                - calendar.ek_2020
 ```
 - on line 69: add the correct `entity` or `entities` to show
 - change `maxDaysToShow` in the days that you want
