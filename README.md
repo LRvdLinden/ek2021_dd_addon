@@ -81,7 +81,9 @@
 
 ## Result
 ---
-![IMG_0544](https://user-images.githubusercontent.com/77990847/114402640-52bd1f80-9ba4-11eb-990e-7a04642bd641.PNG)
+![mockup-of-two-iphones-12-pro-max-with-a-plain-background-5014-el1 (4)](https://user-images.githubusercontent.com/77990847/118459806-60fae000-b6fc-11eb-8c4c-b40073969d0c.png)
+
+
 
 ---
 Enjoy my card? Help me out for a couple of :beers: or a :coffee:!
